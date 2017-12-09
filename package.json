@@ -1,0 +1,28 @@
+{
+  "name": "balala",
+  "version": "0.0.1",
+  "description": "A WebView solution under react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/balala.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "WebView",
+    "React",
+    "Native",
+    "Webview",
+    "Blala"
+  ],
+  "author": "Phodal HUANG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phodal/balala/issues"
+  },
+  "homepage": "https://github.com/phodal/balala#readme"
+}
